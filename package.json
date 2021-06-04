@@ -1,8 +1,8 @@
 {
-  "name": "{{name}}",
+  "name": "dk-cli",
   "version": "0.1.0",
-  "description": "{{description}}",
-  "author": "{{author}}",
+  "description": "this is a vue cli",
+  "author": "LenGxin",
   "license": "ISC",
   "keywords": [
     "cli"
@@ -16,10 +16,9 @@
     "download-git-repo": "^3.0.2",
     "handlebars": "^4.7.7",
     "inquirer": "^8.1.0",
-    "log-symbols": "^5.0.0",
     "ora": "^5.4.0"
   },
   "bin": {
-    "py": "./bin/mvc.js"
+    "dk": "./bin/mvc.js"
   }
 }
