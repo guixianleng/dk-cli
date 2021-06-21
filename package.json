@@ -1,0 +1,31 @@
+{
+  "name": "dk-cli",
+  "version": "1.0.0",
+  "description": "this is a vue cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guixianleng/dk-cli.git"
+  },
+  "keywords": [
+    "脚手架"
+  ],
+  "author": "LenGxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guixianleng/dk-cli/issues"
+  },
+  "homepage": "https://github.com/guixianleng/dk-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.0",
+    "ora": "^5.4.0"
+  },
+  "bin": {
+    "mvc": "./bin/mvc.js"
+  }
+}
