@@ -20,11 +20,27 @@ module.exports = {
           }
         },
         {
-          name: 'mobile',
+          name: 'H5',
           value: {
             url: '',
             gitName: '',
             val: '移动端模版'
+          }
+        },
+        {
+          name: 'Mini program',
+          value: {
+            url: '',
+            gitName: '',
+            val: '小程序模版'
+          }
+        },
+        {
+          name: 'Component library',
+          value: {
+            url: 'https://github.com/guixianleng/ui-library-templ.git#main',
+            gitName: 'component library',
+            val: '组件库发布模版'
           }
         },
       ],

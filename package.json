@@ -1,5 +1,5 @@
 {
-  "name": "dk-cli",
+  "name": "pdk-cli",
   "version": "0.1.0",
   "description": "this is a vue cli",
   "author": "LenGxin",
@@ -19,6 +19,6 @@
     "ora": "^5.4.0"
   },
   "bin": {
-    "dk": "./bin/mvc.js"
+    "pdk": "./bin/mvc.js"
   }
 }
