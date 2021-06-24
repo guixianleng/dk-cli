@@ -1,11 +1,13 @@
 {
   "name": "pdk-cli",
-  "version": "0.1.0",
-  "description": "this is a vue cli",
+  "version": "1.0.0",
+  "description": "a vue cli",
   "author": "LenGxin",
   "license": "ISC",
   "keywords": [
-    "cli"
+    "pdk",
+    "pdk-cli",
+    "脚手架"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
